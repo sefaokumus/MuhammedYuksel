@@ -1,0 +1,15 @@
+E:\TEMP Projects\MuhammedYuksel\obj\Debug\MuhammedYuksel.csprojResolveAssemblyReference.cache
+E:\TEMP Projects\MuhammedYuksel\obj\Debug\MuhammedYuksel.DizinAyarla.resources
+E:\TEMP Projects\MuhammedYuksel\obj\Debug\MuhammedYuksel.Properties.Resources.resources
+E:\TEMP Projects\MuhammedYuksel\obj\Debug\MuhammedYuksel.SchedulerUI.resources
+E:\TEMP Projects\MuhammedYuksel\obj\Debug\MuhammedYuksel.csproj.GenerateResource.Cache
+E:\TEMP Projects\MuhammedYuksel\bin\Debug\MuhammedYuksel.exe.config
+E:\TEMP Projects\MuhammedYuksel\bin\Debug\MuhammedYuksel.exe
+E:\TEMP Projects\MuhammedYuksel\bin\Debug\MuhammedYuksel.pdb
+E:\TEMP Projects\MuhammedYuksel\bin\Debug\Oracle.DataAccess.dll
+E:\TEMP Projects\MuhammedYuksel\obj\Debug\MuhammedYuksel.exe
+E:\TEMP Projects\MuhammedYuksel\obj\Debug\MuhammedYuksel.pdb
+E:\TEMP Projects\MuhammedYuksel\bin\Debug\MuhammedYuksel.exe.manifest
+E:\TEMP Projects\MuhammedYuksel\bin\Debug\MuhammedYuksel.application
+E:\TEMP Projects\MuhammedYuksel\obj\Debug\MuhammedYuksel.exe.manifest
+E:\TEMP Projects\MuhammedYuksel\obj\Debug\MuhammedYuksel.application
